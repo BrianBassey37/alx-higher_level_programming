@@ -20,4 +20,3 @@ def find_peak(list_of_integers):
         else:
             sizeArr = middle
     return list_of_integers[index]
-
