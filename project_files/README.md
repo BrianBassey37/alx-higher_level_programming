@@ -153,5 +153,3 @@ Differences: While Tableau is a comprehensive and feature-rich tool, it is a sta
 Reason for Reimplementation: The decision to reimplement a solution rather than using an existing tool like Tableau is driven by the desire to create a customized and tailored experience specifically for the project's requirements. Reimplementing the solution provides the opportunity to incorporate specific design choices, interactivity options, and data import mechanisms that align with the project's objectives. It allows for a more focused and specialized approach to address the unique needs of the project while also providing a valuable learning experience for the team.
 
 
-
-
